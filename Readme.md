@@ -4,7 +4,7 @@
 
 ### Description
 
-[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+First project of [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
 This project is a check-splitting app that you might use after eating at a restaurant – you enter the cost of your food, select how much of a tip you want to leave, and how many people you’re with, and it will tell you how much each person needs to pay.
 
@@ -18,4 +18,6 @@ This project is a check-splitting app that you might use after eating at a resta
 
 ## Documentation
 
+* [First day of this project](https://www.hackingwithswift.com/100/swiftui/16)
 * [Hacking with Swift](https://www.hackingwithswift.com)
+
